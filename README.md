@@ -1,6 +1,6 @@
 # Development of Transportation in China
 
-**Live Site:** [STA313 Transportation Project](https://sta313.onrender.com/)
+**Interactive Website:** [China Transportation Project](https://sta313.onrender.com/)
 
 A graphical overview of:
 - Passenger volume across infrastructures
